@@ -1,0 +1,4 @@
+Link To Theme Building Series On YouTube
+If you are interested in building the theme from scratch using HTML/CSS/Sass, I have a 4 part series on YouTube:
+
+https://www.youtube.com/watch?v=IFM9hbapeA0&list=PLillGF-Rfqba3xeEvDzIcUCxwMlGiewfV
